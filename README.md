@@ -10,5 +10,4 @@ by integrating SQL Server as a DataBase in order to ensure CRUDs.
 
 > Flask run --debug 
 
-If there are problems check that you have Flask installed, so use the libraries . 
-
+If there are problems check that you have Flask installed and the requires libraries .
